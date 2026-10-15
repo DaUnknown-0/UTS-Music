@@ -1,0 +1,875 @@
+{
+ "version": 1,
+ "kinds": [
+  {
+   "key": "synthwave",
+   "style": "Synthwave",
+   "versions": [
+    {
+     "key": "synthwave-b",
+     "title": "Neon Highway",
+     "size": 574688,
+     "sha": "c258e3c1466aa1d3421c54596e2c3ecf7e1d64bc2f923638c1233222c66e9592",
+     "default": true,
+     "seconds": 70
+    },
+    {
+     "key": "synthwave-a",
+     "title": "Neon Draft",
+     "size": 585091,
+     "sha": "542911479eb058564c8b448dffbaad910aef63e38fb1e7eb55fed934cc563a53",
+     "default": false,
+     "seconds": 70
+    },
+    {
+     "key": "synthwave-c",
+     "title": "Midnight Overdrive",
+     "size": 564377,
+     "sha": "a105c16330590b55c3c8c99c8d7c792ce93f401e427c0db55b63d7e6289017c4",
+     "default": false,
+     "seconds": 70
+    }
+   ]
+  },
+  {
+   "key": "chiptune",
+   "style": "Chiptune",
+   "versions": [
+    {
+     "key": "chiptune-a",
+     "title": "Pixel Panic",
+     "size": 440264,
+     "sha": "574ea73881efbb9a12d68a1425bfe080a2570a0f20b5f63c1857a0e0a0f135f0",
+     "default": true,
+     "seconds": 64
+    },
+    {
+     "key": "chiptune-b",
+     "title": "Pixel Panic II",
+     "size": 490393,
+     "sha": "0001fb65e54d8ee3ed738c1a30f172e4a22c06b9ac3218530909a7c725f67624",
+     "default": true,
+     "seconds": 64
+    },
+    {
+     "key": "chiptune-c",
+     "title": "Pixel Panic III",
+     "size": 457842,
+     "sha": "1a60e1d6d3b009d31b9cc6b1efd85062c33bc2aa5293db05d60ed706b64edf96",
+     "default": false,
+     "seconds": 64
+    }
+   ]
+  },
+  {
+   "key": "lofi",
+   "style": "Lo-Fi",
+   "versions": [
+    {
+     "key": "lofi-a",
+     "title": "Slow Lobby",
+     "size": 807779,
+     "sha": "9b721a9a42a9438e5b87afc2cf2b532a136b7cea5b5225f3d528a8da6b39b0d2",
+     "default": true,
+     "seconds": 72
+    },
+    {
+     "key": "lofi-c",
+     "title": "Waiting Room Rain",
+     "size": 737282,
+     "sha": "ac1d10a870cc84e19ffbf83311e5e644e6c423e4e2f45bc432d4b05c7f74fb87",
+     "default": true,
+     "seconds": 72
+    }
+   ]
+  },
+  {
+   "key": "horror",
+   "style": "Horror",
+   "versions": [
+    {
+     "key": "horror-b",
+     "title": "Vigil",
+     "size": 558348,
+     "sha": "7578f1bdd5889c342ff377a1fe9da584bd5fe8f28243d4a37ecaf9fd107731cf",
+     "default": true,
+     "seconds": 67
+    },
+    {
+     "key": "horror-d",
+     "title": "Quiet Before",
+     "size": 303650,
+     "sha": "3eedd0ddb60c99a9007420f3c0c1ef9ce799b5916483206c9841152fd6a264c9",
+     "default": true,
+     "seconds": 67
+    }
+   ]
+  },
+  {
+   "key": "space",
+   "style": "Space Ambient",
+   "versions": [
+    {
+     "key": "space-a",
+     "title": "Orbit Drift",
+     "size": 532637,
+     "sha": "344892e3d0167b892ccb931211f3f2c32c40f0ce1033854ec086340b297d5dfa",
+     "default": true,
+     "seconds": 70
+    },
+    {
+     "key": "space-b",
+     "title": "Adrift",
+     "size": 581897,
+     "sha": "a120e29c2e0c5e03a7d5ab523095260aa1952e86d220fdd0e2c591d3fb508485",
+     "default": true,
+     "seconds": 70
+    },
+    {
+     "key": "space-c",
+     "title": "Drifting Past Cygnus",
+     "size": 609134,
+     "sha": "8b3f777b8c6ac612c66bfa5715e1961a4209055610bbd428cec8a2aacbda46a6",
+     "default": true,
+     "seconds": 70
+    }
+   ]
+  },
+  {
+   "key": "dnb",
+   "style": "Drum & Bass",
+   "versions": [
+    {
+     "key": "dnb-b",
+     "title": "Pressure Drop",
+     "size": 615093,
+     "sha": "f8a2d760d13406ceeec303211d1682830fd73dd71c9a555714708b27c8038805",
+     "default": true,
+     "seconds": 67
+    },
+    {
+     "key": "dnb-a",
+     "title": "Fast Pick",
+     "size": 659948,
+     "sha": "5fa8dd84a605b251acf1d47272558cbd2f7d530fcb2b411f4fdd8cb89e8d2b8c",
+     "default": false,
+     "seconds": 67
+    },
+    {
+     "key": "dnb-c",
+     "title": "Redline Protocol",
+     "size": 535987,
+     "sha": "d14f9399af862c38df5281605ab296834c5851e757b74a07150f465987ef9334",
+     "default": false,
+     "seconds": 67
+    }
+   ]
+  },
+  {
+   "key": "noir",
+   "style": "Noir Jazz",
+   "versions": [
+    {
+     "key": "noir-c",
+     "title": "Case of the Quiet Traitor",
+     "size": 558494,
+     "sha": "e7517d36f7e4cf3271efc997daaf3ecc6ac36c688534b53b7ae8577631eea0cb",
+     "default": true,
+     "seconds": 66
+    },
+    {
+     "key": "noir-a",
+     "title": "Night Detective",
+     "size": 578670,
+     "sha": "8359fdf14013534ba5d264be1a41f41e36dad9d26ae95925a62ecfca937e5ab3",
+     "default": false,
+     "seconds": 66
+    }
+   ]
+  },
+  {
+   "key": "epic",
+   "style": "Epic",
+   "versions": [
+    {
+     "key": "epic-c",
+     "title": "The Weight of the Vote",
+     "size": 533799,
+     "sha": "9835996dcf49949cbd073ac7cc146fac9253842e75e33db70b84f2ed1a13fdbd",
+     "default": true,
+     "seconds": 63
+    },
+    {
+     "key": "epic-b",
+     "title": "The Verdict",
+     "size": 474996,
+     "sha": "caa3cd85bc73e4f75cf7f424109448c58a365fc38aff4eff0fbc3f4265c1460e",
+     "default": false,
+     "seconds": 68
+    },
+    {
+     "key": "epic-a",
+     "title": "Final Vote",
+     "size": 554145,
+     "sha": "508f60589080b460f7d0098b65108e6844bc54a1b0782f588ffa75f6c671d6d2",
+     "default": false,
+     "seconds": 73
+    }
+   ]
+  },
+  {
+   "key": "lounge",
+   "style": "Lounge",
+   "versions": [
+    {
+     "key": "lounge-d",
+     "title": "Hold Music Lounge",
+     "size": 613869,
+     "sha": "bc8fb8b23333ca14c95977e73e3aa13c45116d00765901a3481e48f970367927",
+     "default": true,
+     "seconds": 70
+    },
+    {
+     "key": "lounge-a",
+     "title": "Please Hold",
+     "size": 542569,
+     "sha": "71bca950295ed043bd9b23bf9553ecc3f0dd78420a2758e4cf8a9b72849513d9",
+     "default": false,
+     "seconds": 62
+    }
+   ]
+  },
+  {
+   "key": "waltz",
+   "style": "Music Box Waltz",
+   "versions": [
+    {
+     "key": "waltz-b",
+     "title": "Porcelain",
+     "size": 552846,
+     "sha": "981877ecba4731576068aba16ad37cc95a916040e32756b0865329c93fa23473",
+     "default": true,
+     "seconds": 68
+    },
+    {
+     "key": "waltz-a",
+     "title": "Porcelain Waltz",
+     "size": 470145,
+     "sha": "986cb77f38feb4f4a3c526d550416eaf523ad3ff71bf42361757a80ac8f7ca0c",
+     "default": false,
+     "seconds": 63
+    },
+    {
+     "key": "waltz-c",
+     "title": "Porcelain Waltz II",
+     "size": 560242,
+     "sha": "2284f7e7ccab027a5d80316f0707bb0c6a8e5605f8855162cdb5661accf448b5",
+     "default": false,
+     "seconds": 68
+    }
+   ]
+  },
+  {
+   "key": "chase",
+   "style": "Chase",
+   "versions": [
+    {
+     "key": "chase-b",
+     "title": "Don't Look Back",
+     "size": 897768,
+     "sha": "dbcdf1491243c6ee974860dca5c543d96472c196eacedde468d422aae9cbd690",
+     "default": true,
+     "seconds": 70
+    },
+    {
+     "key": "chase-c",
+     "title": "Do Not Look Back",
+     "size": 538777,
+     "sha": "752a9acfea4b9a4c7cb11e655643fb0b4690760482cf5cf86b5fcbde956699ea",
+     "default": true,
+     "seconds": 64
+    },
+    {
+     "key": "chase-d",
+     "title": "Don't Look Back II",
+     "size": 499483,
+     "sha": "d3193d727178d0b8e0d36a4a563a53561fc7564c538ee161748f6a99f26a6ae3",
+     "default": false,
+     "seconds": 64
+    }
+   ]
+  },
+  {
+   "key": "lantern",
+   "style": "Calm",
+   "versions": [
+    {
+     "key": "lantern-b",
+     "title": "Small Light",
+     "size": 499408,
+     "sha": "9434fd76d87e3c55c4ae5bed9e0b06c3b073eb2dcd281968363d5049439918f5",
+     "default": true,
+     "seconds": 69
+    },
+    {
+     "key": "lantern-d",
+     "title": "Lantern Light",
+     "size": 383765,
+     "sha": "f8931ba1bf3e64110a3c0171234bd7ca4dece3e028b31e4e4305389fa6362e17",
+     "default": true,
+     "seconds": 63
+    },
+    {
+     "key": "lantern-a",
+     "title": "Last Lantern",
+     "size": 485821,
+     "sha": "8baad533fd1294e4cd084ef6f3ee2cceb0587a7e40a99d3fc7380aa9b539cd48",
+     "default": false,
+     "seconds": 63
+    }
+   ]
+  },
+  {
+   "key": "tiptoe",
+   "style": "Sneaky",
+   "versions": [
+    {
+     "key": "tiptoe-a",
+     "title": "Tiptoe Suspects",
+     "size": 566949,
+     "sha": "6acb4d8c52ddf6f506cf14755fc55256fbbf2b0af015f95b2829dcd6be16058b",
+     "default": true,
+     "seconds": 65
+    }
+   ]
+  },
+  {
+   "key": "eswing",
+   "style": "Electro Swing",
+   "versions": [
+    {
+     "key": "eswing-b",
+     "title": "Suspects on the Dancefloor",
+     "size": 564114,
+     "sha": "21fb879d4f5e3091a618e8f782e7adeb14a785a6d64490a07a2957261733e27e",
+     "default": true,
+     "seconds": 70
+    },
+    {
+     "key": "eswing-a",
+     "title": "Sus Swing",
+     "size": 522254,
+     "sha": "2408db76f1486a91adf24883a343de5400c5c0ad608b6242b2ea8acda533d423",
+     "default": false,
+     "seconds": 62
+    },
+    {
+     "key": "eswing-c",
+     "title": "Suspects at the Soiree",
+     "size": 581953,
+     "sha": "c9b4d12aef5a7c5cc23573d5f1c57ba1fb088d6f523ab751fa4f8b284c1151de",
+     "default": false,
+     "seconds": 70
+    }
+   ]
+  },
+  {
+   "key": "redalert",
+   "style": "Percussion Chase",
+   "versions": [
+    {
+     "key": "redalert-a",
+     "title": "Red Alert",
+     "size": 479301,
+     "sha": "aaa8b9abe112447760e38daa9e5281066e46abfbc2fa68f552b28a96d21673e6",
+     "default": true,
+     "seconds": 66
+    },
+    {
+     "key": "redalert-b",
+     "title": "Red Alert II",
+     "size": 701577,
+     "sha": "2ec214f11fdcf69e0217a80ab622449f4d67c8290633b2a53f560c03534d0800",
+     "default": true,
+     "seconds": 69
+    },
+    {
+     "key": "redalert-c",
+     "title": "Drums of Alarm",
+     "size": 630871,
+     "sha": "913d43727d8b3fd235eb0b6e2369abe7a3cce4c226c91c8ce5052a3abe26e58a",
+     "default": false,
+     "seconds": 66
+    }
+   ]
+  },
+  {
+   "key": "ventrush",
+   "style": "Electro Chase",
+   "versions": [
+    {
+     "key": "ventrush-b",
+     "title": "Vent Run",
+     "size": 579686,
+     "sha": "733de789a2aa0c8035c4db3ad84c8b790b9da7fd85c0e4e6ded4cd86f5981575",
+     "default": true,
+     "seconds": 69
+    },
+    {
+     "key": "ventrush-a",
+     "title": "Vent Rush",
+     "size": 603516,
+     "sha": "39072da161c656d8ebdc672151eb7e67034b98a43ee6bdcc6829ff612a50e8e7",
+     "default": false,
+     "seconds": 62
+    },
+    {
+     "key": "ventrush-c",
+     "title": "Through the Vents",
+     "size": 536714,
+     "sha": "8bd88500594ac0874f0bb69f8ca977fa3150d5910d3e7feb60d32c1d9f376f29",
+     "default": false,
+     "seconds": 69
+    }
+   ]
+  },
+  {
+   "key": "countdown",
+   "style": "Thriller",
+   "versions": [
+    {
+     "key": "countdown-b",
+     "title": "Zero Hour",
+     "size": 564936,
+     "sha": "79fcb989cd4331e07b7c1c205203f9a24f894584208fa8ec5ee3e13aff32e1fd",
+     "default": true,
+     "seconds": 68
+    },
+    {
+     "key": "countdown-c",
+     "title": "Last Minutes",
+     "size": 622067,
+     "sha": "3e4bf4a84e17d128603ea9bce1cd81aac9f247bfd33f90dc3b8200532bd1282a",
+     "default": false,
+     "seconds": 68
+    },
+    {
+     "key": "countdown-a",
+     "title": "Countdown",
+     "size": 525350,
+     "sha": "2999547c11b4f6014e14b1488f8f61d4d2995684b55b75f8226fe114ac1f4a02",
+     "default": false,
+     "seconds": 60
+    }
+   ]
+  },
+  {
+   "key": "meeting",
+   "style": "March",
+   "versions": [
+    {
+     "key": "meeting-b",
+     "title": "Emergency Session",
+     "size": 572489,
+     "sha": "4f422113ff9088560a71832d19df9bc0a3a2e5afcc70f0da7ecb31cf33e50ad7",
+     "default": true,
+     "seconds": 69
+    },
+    {
+     "key": "meeting-a",
+     "title": "Emergency Meeting",
+     "size": 519926,
+     "sha": "e8339f59a5e645ba5babe942ba60796d905d614d2de414d2262e88c9aa02d4ae",
+     "default": false,
+     "seconds": 65
+    }
+   ]
+  },
+  {
+   "key": "corridor",
+   "style": "Creeping Horror",
+   "versions": [
+    {
+     "key": "corridor-a",
+     "title": "Dark Corridor",
+     "size": 494040,
+     "sha": "707307ae8441a1414de4c4c64be5bb209378d7ab726de59ee082d7089b96dac2",
+     "default": true,
+     "seconds": 63
+    },
+    {
+     "key": "corridor-b",
+     "title": "Something Waits",
+     "size": 525825,
+     "sha": "da9ab8da1b26bb45f8b4e81127195ced00cbf6d710c40b7e512ec180c2c56b89",
+     "default": true,
+     "seconds": 69
+    },
+    {
+     "key": "corridor-c",
+     "title": "The Long Hallway",
+     "size": 647256,
+     "sha": "3fff8cf8f5684aad1bd494002a0d31c3f39ae076561c28187d409e4d3a656160",
+     "default": false,
+     "seconds": 69
+    }
+   ]
+  },
+  {
+   "key": "carnival",
+   "style": "Spooky Carnival",
+   "versions": [
+    {
+     "key": "carnival-a",
+     "title": "Haunted Carnival",
+     "size": 543334,
+     "sha": "9d5ac22ab4b5f5cdcedd47158e2c4af3c8a7ffbfa67e4979b37171cd3e3f94b8",
+     "default": true,
+     "seconds": 69
+    },
+    {
+     "key": "carnival-b",
+     "title": "Midnight Midway",
+     "size": 561708,
+     "sha": "8fa24aaceb000efb5f9edbeb2b6060cb6d784bf1e6a438a9158509c9a929d8ad",
+     "default": true,
+     "seconds": 69
+    }
+   ]
+  },
+  {
+   "key": "graveyard",
+   "style": "Spooky Funk",
+   "versions": [
+    {
+     "key": "graveyard-a",
+     "title": "Graveyard Groove",
+     "size": 526249,
+     "sha": "ee75509ea233ea2e3ca0371fc90f1b1ad32364d7108b82232b1993723fea0957",
+     "default": true,
+     "seconds": 65
+    },
+    {
+     "key": "graveyard-b",
+     "title": "Boneyard Boogie",
+     "size": 566124,
+     "sha": "3f1ac8c541e578097ca04198c78967466775b027f57a1e502fdded89a9b2fb7a",
+     "default": true,
+     "seconds": 69
+    },
+    {
+     "key": "graveyard-c",
+     "title": "Graveyard Shift Party",
+     "size": 611945,
+     "sha": "46da7f61c73f72db224ffb771f3bd9fdb238a676bca08535bae283c008c84403",
+     "default": true,
+     "seconds": 65
+    },
+    {
+     "key": "graveyard-d",
+     "title": "Graveyard Groove II",
+     "size": 518937,
+     "sha": "d75aeb0832d144335060aa1965ffcaad9ad3cad76a0f46746b7774aa8f988293",
+     "default": true,
+     "seconds": 65
+    }
+   ]
+  },
+  {
+   "key": "polar",
+   "style": "Ice Ambient",
+   "versions": [
+    {
+     "key": "polar-b",
+     "title": "White Silence",
+     "size": 546528,
+     "sha": "5ce40b7df0c989053d703805843d6974ec481212f53426d0d41124f6e5aa4804",
+     "default": true,
+     "seconds": 67
+    },
+    {
+     "key": "polar-a",
+     "title": "Polar Station",
+     "size": 521101,
+     "sha": "36338b449b82cf51c34b4736ada69a31d8d14e332185d8b88accafed9e1fa5f7",
+     "default": false,
+     "seconds": 67
+    },
+    {
+     "key": "polar-c",
+     "title": "Station Ice",
+     "size": 632852,
+     "sha": "646dcbc29fd4634f4c8e636d238896f110eccd2d323178f9debe22a18d3bea69",
+     "default": false,
+     "seconds": 67
+    }
+   ]
+  },
+  {
+   "key": "taskforce",
+   "style": "Synthpop",
+   "versions": [
+    {
+     "key": "taskforce-a",
+     "title": "Task Force",
+     "size": 528618,
+     "sha": "c672eaaf8c30fb1b9ed0559e0bc6f453ff630ea5a07bbd21ea36c223cd5d6a8b",
+     "default": true,
+     "seconds": 65
+    },
+    {
+     "key": "taskforce-b",
+     "title": "On Task",
+     "size": 552978,
+     "sha": "17797bd8ba2f1f686ea191143937053d8fdd3e17f04287f8f2d997cf3201ba04",
+     "default": true,
+     "seconds": 69
+    }
+   ]
+  },
+  {
+   "key": "arcade",
+   "style": "Chiptune Chase",
+   "versions": [
+    {
+     "key": "arcade-a",
+     "title": "Arcade Escape",
+     "size": 450983,
+     "sha": "7da9be179cfdc82b70b88e42f8ba92613ef789a371e12b7b926a67e1e8204449",
+     "default": true,
+     "seconds": 63
+    },
+    {
+     "key": "arcade-c",
+     "title": "High Score Pursuit",
+     "size": 494258,
+     "sha": "c9ca3e548e4eaa28cd3d58cbd0f9f7746735d263d287cdae27cf9405e5a895b2",
+     "default": true,
+     "seconds": 69
+    }
+   ]
+  },
+  {
+   "key": "goingdown",
+   "style": "Jazz Funk",
+   "versions": [
+    {
+     "key": "goingdown-a",
+     "title": "Going Down",
+     "size": 606106,
+     "sha": "fbd666ff799e6a478f392bc78adc3cb7f81719b24b9efac38f3928743a17d94d",
+     "default": true,
+     "seconds": 66
+    },
+    {
+     "key": "goingdown-b",
+     "title": "Going Down II",
+     "size": 645792,
+     "sha": "82da013c81a65164da33c699a79f0265fe58f349ebc1c1da43f8876224f4572c",
+     "default": true,
+     "seconds": 69
+    },
+    {
+     "key": "goingdown-d",
+     "title": "Going Down III",
+     "size": 600107,
+     "sha": "1cca635ffa8366851917cfc6236ed62e699c45bf2cb7fc7135357daa6f8aa5ed",
+     "default": true,
+     "seconds": 66
+    }
+   ]
+  },
+  {
+   "key": "breakneck",
+   "style": "Rock Chase",
+   "versions": [
+    {
+     "key": "breakneck-a",
+     "title": "Breakneck",
+     "size": 551874,
+     "sha": "5e2c89fed5e90c6c5ef9a8765c7643db7abb0c021a667e387686e4b1dbb758ce",
+     "default": true,
+     "seconds": 64
+    },
+    {
+     "key": "breakneck-b",
+     "title": "Here We Go",
+     "size": 550496,
+     "sha": "6ae93d3b10183f7a85914ec05b0e5bea37f716b6c6e18afc970deaffe473ef4c",
+     "default": true,
+     "seconds": 71
+    }
+   ]
+  },
+  {
+   "key": "afterglow",
+   "style": "Piano Ballad",
+   "versions": [
+    {
+     "key": "afterglow-d",
+     "title": "Afterglow",
+     "size": 355760,
+     "sha": "29e980fcfd036302264248fae4321db0960debad6d9f7ccf6e78ab1abc6341f6",
+     "default": true,
+     "seconds": 65
+    },
+    {
+     "key": "afterglow-a",
+     "title": "Afterglow II",
+     "size": 442391,
+     "sha": "c1a0c913c76b4a068b4715d1430d727b9b20fe33e446b59c31d366348c06ea0c",
+     "default": false,
+     "seconds": 65
+    },
+    {
+     "key": "afterglow-b",
+     "title": "Afterglow III",
+     "size": 492593,
+     "sha": "e4b0a810a60512b4d52d3be0c5e3c6da4683550c9c6b54e76c23c93485247bda",
+     "default": false,
+     "seconds": 71
+    }
+   ]
+  },
+  {
+   "key": "shopsopen",
+   "style": "Shop Radio",
+   "versions": [
+    {
+     "key": "shopsopen-a",
+     "title": "Shop's Open",
+     "size": 562043,
+     "sha": "e7f6a58410d6f20ef54b79ed4cde6741b9fa6d7fdf6692dd1c03c0601bae61b2",
+     "default": true,
+     "seconds": 65
+    },
+    {
+     "key": "shopsopen-b",
+     "title": "Open for Business",
+     "size": 670349,
+     "sha": "fc1857a1c21e5d77b299394a724a697e644e125fb8dc70eb1a2af3d17e21b881",
+     "default": true,
+     "seconds": 71
+    }
+   ]
+  },
+  {
+   "key": "shaft",
+   "style": "Mine Chase",
+   "versions": [
+    {
+     "key": "shaft-b",
+     "title": "Headlamp Run",
+     "size": 582509,
+     "sha": "ab50b5c5a4b906e44cbbc99a1b12f590357204cb67c91c829b21ea14fbedae76",
+     "default": true,
+     "seconds": 64
+    }
+   ]
+  },
+  {
+   "key": "pages",
+   "style": "Library",
+   "versions": [
+    {
+     "key": "pages-a",
+     "title": "Quiet Pages",
+     "size": 509417,
+     "sha": "c4209a48453a9965fbed3d26550c563829644419b30740c2048624b144533dac",
+     "default": true,
+     "seconds": 64
+    },
+    {
+     "key": "pages-b",
+     "title": "Between the Shelves",
+     "size": 472253,
+     "sha": "bfbb851a1f855643c37e8cd0babf6d205ec47d1930099464f58589041399c4d2",
+     "default": true,
+     "seconds": 64
+    }
+   ]
+  },
+  {
+   "key": "opensky",
+   "style": "Departure",
+   "versions": [
+    {
+     "key": "opensky-a",
+     "title": "Open Sky",
+     "size": 495489,
+     "sha": "8274349208a2443106bae882a8152744820803bf7218b73e97ec79e172b90989",
+     "default": true,
+     "seconds": 61
+    },
+    {
+     "key": "opensky-b",
+     "title": "Into the Clearing",
+     "size": 579193,
+     "sha": "e986e3d857acedc291d286c7d77ee1ef4f210b06be5961ae75259458ee73e7a5",
+     "default": true,
+     "seconds": 68
+    }
+   ]
+  },
+  {
+   "key": "spelljig",
+   "style": "Folk Jig",
+   "versions": [
+    {
+     "key": "spelljig-e",
+     "title": "Quicksilver Reel",
+     "size": 766010,
+     "sha": "5d76cbd6e6694b0a9517820eb929f25bac93774bba1247c5ecd042ebb689afd0",
+     "default": true,
+     "seconds": 93
+    },
+    {
+     "key": "spelljig-a",
+     "title": "Through the Ward",
+     "size": 694420,
+     "sha": "26e7288ec72f6a4f84fa957dfde3c88daa5eb5a867a547fc4c20fcc08afb6651",
+     "default": false,
+     "seconds": 86
+    },
+    {
+     "key": "spelljig-c",
+     "title": "Ashen Reel Dance",
+     "size": 884820,
+     "sha": "141cda5892d39eb555a3fee93390db85019e09ffb83e0febbd448ba83e6dd2cc",
+     "default": false,
+     "seconds": 103
+    }
+   ]
+  },
+  {
+   "key": "operaburst",
+   "style": "Opera Burst",
+   "versions": [
+    {
+     "key": "operaburst-b",
+     "title": "Hollow Crown",
+     "size": 757473,
+     "sha": "edabf59052c858f507498778ca2ddde7e5a2c6dce72fc4a59976f21ccbe3c3fd",
+     "default": true,
+     "seconds": 98
+    },
+    {
+     "key": "operaburst-c",
+     "title": "Ember Hymn",
+     "size": 841127,
+     "sha": "3bb143307dee88181e48b089ad3589abe30c6502573846fff9aa0713889ef5f8",
+     "default": false,
+     "seconds": 98
+    },
+    {
+     "key": "operaburst-a",
+     "title": "Trusted Faces",
+     "size": 798156,
+     "sha": "ae2f5259820765ba3042ee7629af905a33a5df954382137cc87bdddb56daa201",
+     "default": false,
+     "seconds": 98
+    }
+   ]
+  }
+ ]
+}
