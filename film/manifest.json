@@ -1,0 +1,60 @@
+{
+ "film": "intro_unknown",
+ "release": 1,
+ "files": [
+  {
+   "name": "film.json",
+   "url": "https://github.com/DaUnknown-0/UTS-Music/releases/download/film-1/film.json",
+   "size": 1296,
+   "sha256": "37af03f40b30c6da6766d6b271162cc733ad03c5f29d69f6bedb8c64980bb4d4"
+  },
+  {
+   "name": "c0.json",
+   "url": "https://github.com/DaUnknown-0/UTS-Music/releases/download/film-1/c0.json",
+   "size": 625,
+   "sha256": "23fd939656f8ad8a783384697b3b0e27408f7e7e6ae62d467b2fd20fb6e015b5"
+  },
+  {
+   "name": "c1.json",
+   "url": "https://github.com/DaUnknown-0/UTS-Music/releases/download/film-1/c1.json",
+   "size": 999,
+   "sha256": "e8ba5189b75f4c8062c9ad8613826a4c0ce855b99fb4805c730667cccc06926a"
+  },
+  {
+   "name": "c2.json",
+   "url": "https://github.com/DaUnknown-0/UTS-Music/releases/download/film-1/c2.json",
+   "size": 1746,
+   "sha256": "162318db247f72133f37cbf90e4cf63abab45ebef6ccd134671411fc3dd011cf"
+  },
+  {
+   "name": "c3.json",
+   "url": "https://github.com/DaUnknown-0/UTS-Music/releases/download/film-1/c3.json",
+   "size": 1385,
+   "sha256": "c610bcbdc5fa9f6c1339f202205aea6700a9137b506174240e5c33e21cc05b2a"
+  },
+  {
+   "name": "c4.json",
+   "url": "https://github.com/DaUnknown-0/UTS-Music/releases/download/film-1/c4.json",
+   "size": 1078,
+   "sha256": "4d29324e805e3b98773b875eae122832bd06d97146dc93080834592a14fb51c6"
+  },
+  {
+   "name": "c6.json",
+   "url": "https://github.com/DaUnknown-0/UTS-Music/releases/download/film-1/c6.json",
+   "size": 781,
+   "sha256": "e95fb3d4b794f496d5d37d3b00e75ddf3cd311e3fe79521211c7ac4ea741e212"
+  },
+  {
+   "name": "c7.json",
+   "url": "https://github.com/DaUnknown-0/UTS-Music/releases/download/film-1/c7.json",
+   "size": 671,
+   "sha256": "15cb2445763d680e0266bfb5cde44826ed53eb937a9dfc1c950415e54ca9890d"
+  },
+  {
+   "name": "film_core.mp4",
+   "url": "https://github.com/DaUnknown-0/UTS-Music/releases/download/film-1/film_core.mp4",
+   "size": 117955309,
+   "sha256": "ac08f87efcd83d2fc471bff054934643476a3db3225b051f4fb84b740ff391be"
+  }
+ ]
+}
