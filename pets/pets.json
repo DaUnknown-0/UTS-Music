@@ -2,201 +2,13 @@
   "format": 1,
   "pets": [
     {
-      "key": "reindeer",
-      "name": "Mini Reindeer",
-      "author": "DaUnknown-0",
-      "sheet": {
-        "file": "pet_reindeer_753b99b6.png",
-        "size": 455700,
-        "sha256": "753b99b6aab4119703a9a11a03b71236bf4a22fa1424f76454ef3bc0327407fe"
-      },
-      "cell": [
-        154,
-        176
-      ],
-      "cols": 6,
-      "idle": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
-      "walk": [
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23
-      ],
-      "fps": 12.0,
-      "height": 0.6,
-      "drop": 0.2,
-      "carrier": "pet_Crewmate"
-    },
-    {
-      "key": "penguin",
-      "name": "Scarf Penguin",
-      "author": "DaUnknown-0",
-      "sheet": {
-        "file": "pet_penguin_1cad429d.png",
-        "size": 574854,
-        "sha256": "1cad429dfa36536a2a0c8463ed2457f935198c89dd5823e10d954dbdf20601e8"
-      },
-      "cell": [
-        160,
-        176
-      ],
-      "cols": 6,
-      "idle": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
-      "walk": [
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23
-      ],
-      "fps": 12.0,
-      "height": 0.48,
-      "drop": 0.2,
-      "carrier": "pet_Crewmate"
-    },
-    {
-      "key": "gingerbread",
-      "name": "Gingerbread Man",
-      "author": "DaUnknown-0",
-      "sheet": {
-        "file": "pet_gingerbread_7086d11f.png",
-        "size": 423676,
-        "sha256": "7086d11f05a891404204cc81ddf4417a25c6b9507a003ff9ecce1bd0c7ad1f12"
-      },
-      "cell": [
-        154,
-        176
-      ],
-      "cols": 6,
-      "idle": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
-      "walk": [
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23
-      ],
-      "fps": 12.0,
-      "height": 0.48,
-      "drop": 0.2,
-      "carrier": "pet_Crewmate"
-    },
-    {
-      "key": "krampus",
-      "name": "Mini Krampus",
-      "author": "DaUnknown-0",
-      "sheet": {
-        "file": "pet_krampus_a26ffb90.png",
-        "size": 485680,
-        "sha256": "a26ffb90bfc60552634e6471eb3dc35fd14ddf3185728e87ff08330e076caba2"
-      },
-      "cell": [
-        110,
-        176
-      ],
-      "cols": 6,
-      "idle": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
-      "walk": [
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23
-      ],
-      "fps": 12.0,
-      "height": 0.56,
-      "drop": 0.2,
-      "carrier": "pet_Crewmate"
-    },
-    {
       "key": "vampirebat",
       "name": "Vampire Bat",
       "author": "DaUnknown-0",
       "sheet": {
-        "file": "pet_vampirebat_f839b45c.png",
-        "size": 276115,
-        "sha256": "f839b45c38607563ff6be3a3e4c2bf35c0a90a65e4cf428466a6c81cccdfbcd5"
+        "file": "pet_vampirebat_ff9b44ab.png",
+        "size": 300631,
+        "sha256": "ff9b44ab87221ed053962313f8e09e77a126f9089373c6ccf0434eaf97bc417e"
       },
       "cell": [
         162,
@@ -223,6 +35,7 @@
       "fps": 12.0,
       "height": 0.468,
       "drop": 0.2,
+      "accent": 13,
       "carrier": "pet_Crewmate"
     }
   ]
