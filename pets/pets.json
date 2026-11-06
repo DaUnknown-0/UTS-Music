@@ -37,6 +37,56 @@
       "drop": 0.2,
       "accent": 13,
       "carrier": "pet_Crewmate"
+    },
+    {
+      "key": "xenomorph",
+      "name": "Mini Xenomorph",
+      "author": "DaUnknown-0",
+      "sheet": {
+        "file": "pet_xenomorph_74489869.png",
+        "size": 44728,
+        "sha256": "74489869aef5118ac502ea714a794847d2d772709c3630e133a9dde64aaa962c"
+      },
+      "cell": [
+        164,
+        176
+      ],
+      "cols": 1,
+      "idle": [
+        0
+      ],
+      "walk": [
+        0
+      ],
+      "fps": 1.0,
+      "height": 0.5,
+      "drop": 0.2,
+      "carrier": "pet_Crewmate"
+    },
+    {
+      "key": "shepherd",
+      "name": "Mini Shepherd",
+      "author": "DaUnknown-0",
+      "sheet": {
+        "file": "pet_shepherd_b8c0646e.png",
+        "size": 35631,
+        "sha256": "b8c0646ed5b9669fdd54f702913bbc77381d142d6eea79060a278ed7b2708e6c"
+      },
+      "cell": [
+        152,
+        176
+      ],
+      "cols": 1,
+      "idle": [
+        0
+      ],
+      "walk": [
+        0
+      ],
+      "fps": 1.0,
+      "height": 0.45,
+      "drop": 0.2,
+      "carrier": "pet_Crewmate"
     }
   ]
 }
