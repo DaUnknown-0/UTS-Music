@@ -6,13 +6,13 @@
       "name": "Vampire Bat",
       "author": "DaUnknown-0",
       "sheet": {
-        "file": "pet_vampirebat_ff9b44ab.png",
-        "size": 300631,
-        "sha256": "ff9b44ab87221ed053962313f8e09e77a126f9089373c6ccf0434eaf97bc417e"
+        "file": "pet_vampirebat_9acb8d79.png",
+        "size": 632649,
+        "sha256": "9acb8d79269963c211d417c870a2f2c20e9b9c72c821cb2eabbdb5a2be553f61"
       },
       "cell": [
-        162,
-        176
+        168,
+        207
       ],
       "cols": 6,
       "idle": [
@@ -33,9 +33,20 @@
         12
       ],
       "fps": 12.0,
-      "height": 0.468,
+      "height": 0.55,
+      "pet": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "petFps": 10.0,
       "drop": 0.2,
-      "accent": 13,
+      "accent": 21,
       "carrier": "pet_Crewmate"
     },
     {
@@ -43,13 +54,13 @@
       "name": "Mini Xenomorph",
       "author": "DaUnknown-0",
       "sheet": {
-        "file": "pet_xenomorph_497b0ef0.png",
-        "size": 572315,
-        "sha256": "497b0ef0963189f7595b1a383968e0b97f9c4e69b7b2a107a1080781475a9f87"
+        "file": "pet_xenomorph_efb21872.png",
+        "size": 909171,
+        "sha256": "efb21872b12e3ae31bd367948c4b9708b5b82d0a42dd7b37657f02271f7603a7"
       },
       "cell": [
-        164,
-        185
+        196,
+        214
       ],
       "cols": 7,
       "idle": [
@@ -70,7 +81,18 @@
         12
       ],
       "fps": 12.0,
-      "height": 0.526,
+      "height": 0.609,
+      "pet": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "petFps": 10.0,
       "drop": 0.2,
       "carrier": "pet_Crewmate"
     },
@@ -79,13 +101,13 @@
       "name": "Mini Shepherd",
       "author": "DaUnknown-0",
       "sheet": {
-        "file": "pet_shepherd_c1305e58.png",
-        "size": 331814,
-        "sha256": "c1305e58c5d9f1e3df91bede38c8000a36fd0cf1d32ed4b72678f30e9622858b"
+        "file": "pet_shepherd_97b0add8.png",
+        "size": 623090,
+        "sha256": "97b0add81fdcf380ad183f1616feeb586a289587252726d1f03c7dbb08d3f82c"
       },
       "cell": [
-        162,
-        181
+        186,
+        225
       ],
       "cols": 9,
       "idle": [
@@ -102,7 +124,18 @@
         8
       ],
       "fps": 10.0,
-      "height": 0.463,
+      "height": 0.576,
+      "pet": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "petFps": 10.0,
       "drop": 0.2,
       "carrier": "pet_Crewmate"
     }
